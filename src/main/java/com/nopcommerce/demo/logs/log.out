@@ -1,0 +1,298 @@
+2023-05-17 22:05:143 INFO  HomePage :67 - Select job title :Tester<br>
+2023-05-17 22:05:315 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-17 22:05:524 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-17 22:05:624 INFO  HomePage :88 - Click on more search option
+2023-05-17 22:05:881 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-17 22:05:48 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-17 22:05:227 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-17 22:05:413 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-17 22:05:637 INFO  HomePage :123 - Click find job :
+2023-05-17 22:05:382 INFO  HomePage :67 - Select job title :Accountant<br>
+2023-05-17 22:05:710 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-17 22:05:996 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-17 22:05:166 INFO  HomePage :88 - Click on more search option
+2023-05-17 22:05:462 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-17 22:05:637 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-17 22:05:832 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-17 22:05:15 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-17 22:05:268 INFO  HomePage :123 - Click find job :
+2023-05-17 22:05:815 INFO  HomePage :67 - Select job title :Tester<br>
+2023-05-17 22:05:218 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-17 22:05:525 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-17 22:05:753 INFO  HomePage :88 - Click on more search option
+2023-05-17 22:05:143 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-17 22:05:361 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-17 22:05:592 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-17 22:05:820 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-17 22:05:91 INFO  HomePage :123 - Click find job :
+2023-05-17 22:05:81 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (2771fa33a5028603546d61b688ecddc5)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-17 22:05:935 INFO  HomePage :67 - Select job title :Accountant<br>
+2023-05-17 22:05:224 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-17 22:05:560 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-17 22:05:709 INFO  HomePage :88 - Click on more search option
+2023-05-17 22:05:959 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-17 22:05:112 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-17 22:05:275 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-17 22:05:435 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-17 22:05:627 INFO  HomePage :123 - Click find job :
+2023-05-17 22:05:37 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (855d2fca47a56286e7c00429366ac6df)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-17 22:05:176 INFO  HomePage :67 - Select job title :Tester<br>
+2023-05-17 22:05:546 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-17 22:05:861 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-17 22:05:50 INFO  HomePage :88 - Click on more search option
+2023-05-17 22:05:380 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-17 22:05:571 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-17 22:05:790 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-17 22:05:960 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-17 22:05:220 INFO  HomePage :123 - Click find job :
+2023-05-17 22:05:679 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (a9d3c0046e4494657a4b174bd0e593d6)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-17 22:05:806 INFO  HomePage :67 - Select job title :Accountant<br>
+2023-05-17 22:05:02 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-17 22:05:421 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-17 22:05:542 INFO  HomePage :88 - Click on more search option
+2023-05-17 22:05:817 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-17 22:05:951 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-17 22:05:102 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-17 22:05:254 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-17 22:05:447 INFO  HomePage :123 - Click find job :
+2023-05-17 22:05:823 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (fa22531cb9c493b1e454b98f91bacb0e)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-18 01:05:954 INFO  HomePage :67 - Select job title :Tester<br>
+2023-05-18 01:05:82 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-18 01:05:234 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-18 01:05:325 INFO  HomePage :88 - Click on more search option
+2023-05-18 01:05:464 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-18 01:05:570 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-18 01:05:670 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-18 01:05:763 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-18 01:05:867 INFO  HomePage :123 - Click find job :
+2023-05-18 01:05:901 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (a39b232702b76868bec11983cdd0fe24)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-18 01:05:368 INFO  HomePage :67 - Select job title :Accountant<br>
+2023-05-18 01:05:646 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-18 01:05:878 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-18 01:05:12 INFO  HomePage :88 - Click on more search option
+2023-05-18 01:05:311 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-18 01:05:450 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-18 01:05:653 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-18 01:05:827 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-18 01:05:23 INFO  HomePage :123 - Click find job :
+2023-05-18 01:05:412 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (cf99649c5edff0a0ad55cbd5f77615fb)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:238 INFO  HomePage :67 - Select job title :Tester<br>
+2023-05-19 10:05:373 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:540 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-19 10:05:612 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:721 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-19 10:05:815 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 10:05:906 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:984 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:60 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:452 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (441703c7cb75eb6c3363c56eae3a0f0e)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:866 INFO  HomePage :67 - Select job title :Accountant<br>
+2023-05-19 10:05:996 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:155 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-19 10:05:240 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:377 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-19 10:05:496 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 10:05:622 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:717 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:831 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:642 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (80c7c1993f4118401d7c7f2dcbd4fb33)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:986 INFO  HomePage :67 - Select job title :Account Manager<br>
+2023-05-19 10:05:113 INFO  HomePage :74 - Select Location : Wembley, Greater London<br>
+2023-05-19 10:05:256 INFO  HomePage :81 - Select Distance7 miles<br>
+2023-05-19 10:05:479 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:623 INFO  HomePage :95 - Select salary minimum :25000<br>
+2023-05-19 10:05:729 INFO  HomePage :102 - Select salary maximum : 50000<br>
+2023-05-19 10:05:832 INFO  HomePage :109 - Select salary type :Per month<br>
+2023-05-19 10:05:926 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:24 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:254 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (749b13ada1673c947874fefb8bf0f226)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:664 INFO  HomePage :67 - Select job title :Software Engineer<br>
+2023-05-19 10:05:797 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:947 INFO  HomePage :81 - Select Distance10 miles<br>
+2023-05-19 10:05:109 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:284 INFO  HomePage :95 - Select salary minimum :40000<br>
+2023-05-19 10:05:409 INFO  HomePage :102 - Select salary maximum : 100000<br>
+2023-05-19 10:05:525 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:632 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:755 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:549 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (beb4e6abbbf3b62a08da9020ee695aed)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:458 INFO  HomePage :67 - Select job title :Software Test Engineer<br>
+2023-05-19 10:05:610 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:705 INFO  HomePage :81 - Select Distance15 miles<br>
+2023-05-19 10:05:819 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:31 INFO  HomePage :95 - Select salary minimum :50000<br>
+2023-05-19 10:05:145 INFO  HomePage :102 - Select salary maximum : 80000<br>
+2023-05-19 10:05:280 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:378 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:496 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:450 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (a3c0ff89e582127d9708c797012bfc72)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:849 INFO  HomePage :67 - Select job title :Software Engineer<br>
+2023-05-19 10:05:968 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:86 INFO  HomePage :81 - Select Distance10 miles<br>
+2023-05-19 10:05:322 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:459 INFO  HomePage :95 - Select salary minimum :40000<br>
+2023-05-19 10:05:586 INFO  HomePage :102 - Select salary maximum : 100000<br>
+2023-05-19 10:05:682 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:771 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:878 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:41 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (4c2e4ef72065679d7a667cdc23c0cfc3)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:271 INFO  HomePage :67 - Select job title :Bank Manager<br>
+2023-05-19 10:05:397 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:547 INFO  HomePage :81 - Select Distance7 miles<br>
+2023-05-19 10:05:641 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:811 INFO  HomePage :95 - Select salary minimum :40000<br>
+2023-05-19 10:05:929 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 10:05:45 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:158 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:294 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:965 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (a2382e1c9034674086632a6293646027)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:666 INFO  HomePage :67 - Select job title :Tester<br>
+2023-05-19 10:05:812 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:968 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-19 10:05:64 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:208 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-19 10:05:328 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 10:05:438 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:536 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:646 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:244 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (a3576ba273c560fd26300cf9951506d7)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:597 INFO  HomePage :67 - Select job title :Accountant<br>
+2023-05-19 10:05:739 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:880 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-19 10:05:976 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:128 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-19 10:05:236 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 10:05:358 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:463 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:574 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:493 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (9e467ca827b7c7c4c4121667c1f59ef3)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:867 INFO  HomePage :67 - Select job title :Account Manager<br>
+2023-05-19 10:05:04 INFO  HomePage :74 - Select Location : Wembley, Greater London<br>
+2023-05-19 10:05:143 INFO  HomePage :81 - Select Distance7 miles<br>
+2023-05-19 10:05:370 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:514 INFO  HomePage :95 - Select salary minimum :25000<br>
+2023-05-19 10:05:627 INFO  HomePage :102 - Select salary maximum : 50000<br>
+2023-05-19 10:05:742 INFO  HomePage :109 - Select salary type :Per month<br>
+2023-05-19 10:05:832 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:917 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:215 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (cedb8c3265b4b9fa8b270a843183b561)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:705 INFO  HomePage :67 - Select job title :Software Engineer<br>
+2023-05-19 10:05:880 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:53 INFO  HomePage :81 - Select Distance10 miles<br>
+2023-05-19 10:05:229 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:397 INFO  HomePage :95 - Select salary minimum :40000<br>
+2023-05-19 10:05:525 INFO  HomePage :102 - Select salary maximum : 100000<br>
+2023-05-19 10:05:640 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:749 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:879 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:729 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (e7e456ac2cdd353ba291007203ac9923)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:743 INFO  HomePage :67 - Select job title :Software Test Engineer<br>
+2023-05-19 10:05:931 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:24 INFO  HomePage :81 - Select Distance15 miles<br>
+2023-05-19 10:05:134 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:338 INFO  HomePage :95 - Select salary minimum :50000<br>
+2023-05-19 10:05:455 INFO  HomePage :102 - Select salary maximum : 80000<br>
+2023-05-19 10:05:597 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:701 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:830 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:546 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (dfdc33ee81581472fb9fc81042ec5f1b)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:306 INFO  HomePage :67 - Select job title :Software Engineer<br>
+2023-05-19 10:05:484 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:639 INFO  HomePage :81 - Select Distance10 miles<br>
+2023-05-19 10:05:808 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:989 INFO  HomePage :95 - Select salary minimum :40000<br>
+2023-05-19 10:05:109 INFO  HomePage :102 - Select salary maximum : 100000<br>
+2023-05-19 10:05:241 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:350 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:485 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:322 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (c5fe40e77b3db05885d8f5196e03aed6)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 10:05:39 INFO  HomePage :67 - Select job title :Bank Manager<br>
+2023-05-19 10:05:203 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 10:05:366 INFO  HomePage :81 - Select Distance7 miles<br>
+2023-05-19 10:05:468 INFO  HomePage :88 - Click on more search option
+2023-05-19 10:05:643 INFO  HomePage :95 - Select salary minimum :40000<br>
+2023-05-19 10:05:767 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 10:05:885 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 10:05:996 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 10:05:126 INFO  HomePage :123 - Click find job :
+2023-05-19 10:05:740 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (19562a1b48c445d7c7c1846f1af93c06)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 11:05:125 INFO  HomePage :67 - Select job title :Tester<br>
+2023-05-19 11:05:271 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 11:05:431 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-19 11:05:531 INFO  HomePage :88 - Click on more search option
+2023-05-19 11:05:664 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-19 11:05:779 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 11:05:859 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 11:05:932 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 11:05:10 INFO  HomePage :123 - Click find job :
+2023-05-19 11:05:401 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (04f244aff2e33d6d9b28f723434908ed)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 11:05:339 INFO  HomePage :67 - Select job title :Tester<br>
+2023-05-19 11:05:499 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 11:05:659 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-19 11:05:750 INFO  HomePage :88 - Click on more search option
+2023-05-19 11:05:897 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-19 11:05:42 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 11:05:198 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 11:05:309 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 11:05:443 INFO  HomePage :123 - Click find job :
+2023-05-19 11:05:307 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (b1cf8206104f9f751cd99fbcc66ca69c)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 11:05:583 INFO  HomePage :67 - Select job title :Accountant<br>
+2023-05-19 11:05:715 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 11:05:853 INFO  HomePage :81 - Select Distance5 miles<br>
+2023-05-19 11:05:954 INFO  HomePage :88 - Click on more search option
+2023-05-19 11:05:116 INFO  HomePage :95 - Select salary minimum :30000<br>
+2023-05-19 11:05:227 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 11:05:333 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 11:05:436 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 11:05:537 INFO  HomePage :123 - Click find job :
+2023-05-19 11:05:159 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (0b04b44865a87508374df357a90a80da)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 11:05:651 INFO  HomePage :67 - Select job title :Account Manager<br>
+2023-05-19 11:05:776 INFO  HomePage :74 - Select Location : Wembley, Greater London<br>
+2023-05-19 11:05:913 INFO  HomePage :81 - Select Distance7 miles<br>
+2023-05-19 11:05:124 INFO  HomePage :88 - Click on more search option
+2023-05-19 11:05:259 INFO  HomePage :95 - Select salary minimum :25000<br>
+2023-05-19 11:05:383 INFO  HomePage :102 - Select salary maximum : 50000<br>
+2023-05-19 11:05:484 INFO  HomePage :109 - Select salary type :Per month<br>
+2023-05-19 11:05:576 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 11:05:681 INFO  HomePage :123 - Click find job :
+2023-05-19 11:05:189 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (ddb8839cc7c18c00dc8ecde2733fc37a)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 11:05:171 INFO  HomePage :67 - Select job title :Software Engineer<br>
+2023-05-19 11:05:316 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 11:05:474 INFO  HomePage :81 - Select Distance10 miles<br>
+2023-05-19 11:05:658 INFO  HomePage :88 - Click on more search option
+2023-05-19 11:05:819 INFO  HomePage :95 - Select salary minimum :40000<br>
+2023-05-19 11:05:947 INFO  HomePage :102 - Select salary maximum : 100000<br>
+2023-05-19 11:05:64 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 11:05:168 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 11:05:291 INFO  HomePage :123 - Click find job :
+2023-05-19 11:05:484 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (5838ec8b64cc949c0262ee7a006e68a3)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 11:05:572 INFO  HomePage :67 - Select job title :Software Test Engineer<br>
+2023-05-19 11:05:717 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 11:05:817 INFO  HomePage :81 - Select Distance15 miles<br>
+2023-05-19 11:05:922 INFO  HomePage :88 - Click on more search option
+2023-05-19 11:05:87 INFO  HomePage :95 - Select salary minimum :50000<br>
+2023-05-19 11:05:207 INFO  HomePage :102 - Select salary maximum : 80000<br>
+2023-05-19 11:05:353 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 11:05:454 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 11:05:572 INFO  HomePage :123 - Click find job :
+2023-05-19 11:05:779 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (641a7a85fca2537bddd241c70aa3adaa)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 11:05:763 INFO  HomePage :67 - Select job title :Software Engineer<br>
+2023-05-19 11:05:920 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 11:05:75 INFO  HomePage :81 - Select Distance10 miles<br>
+2023-05-19 11:05:246 INFO  HomePage :88 - Click on more search option
+2023-05-19 11:05:427 INFO  HomePage :95 - Select salary minimum :40000<br>
+2023-05-19 11:05:532 INFO  HomePage :102 - Select salary maximum : 100000<br>
+2023-05-19 11:05:635 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 11:05:737 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 11:05:851 INFO  HomePage :123 - Click find job :
+2023-05-19 11:05:644 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (e425948d5e02931633ef9d34d0504a7a)] -> xpath: //h1[@class='search-header__title']]<br>
+2023-05-19 11:05:58 INFO  HomePage :67 - Select job title :Bank Manager<br>
+2023-05-19 11:05:202 INFO  HomePage :74 - Select Location : Harrow, Greater London<br>
+2023-05-19 11:05:345 INFO  HomePage :81 - Select Distance7 miles<br>
+2023-05-19 11:05:429 INFO  HomePage :88 - Click on more search option
+2023-05-19 11:05:585 INFO  HomePage :95 - Select salary minimum :40000<br>
+2023-05-19 11:05:728 INFO  HomePage :102 - Select salary maximum : 60000<br>
+2023-05-19 11:05:835 INFO  HomePage :109 - Select salary type :Per annum<br>
+2023-05-19 11:05:935 INFO  HomePage :116 - Select job type : Permanent<br>
+2023-05-19 11:05:56 INFO  HomePage :123 - Click find job :
+2023-05-19 11:05:998 INFO  ResultPage :31 - Verify result title[[ChromeDriver: chrome on WINDOWS (94b1516fbf51cbb99c3bd11cb47c5814)] -> xpath: //h1[@class='search-header__title']]<br>
